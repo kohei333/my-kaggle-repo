@@ -1,2 +1,2 @@
 # my-kaggle-repo
-This is my Kaggle repo
+This is my Kaggle repository
